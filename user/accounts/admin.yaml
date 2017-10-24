@@ -1,0 +1,15 @@
+email: drchuck@gmail.com
+fullname: 'Charles R. Severance'
+title: Administrator
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$7siJ.y2sPa2QIWoN7IgBHOGB32iQG/sNTV5ze3ZOHdVDCnU23QQuO
+authorized: true
+twofa_secret: BVPO3LYILNOCHUTMEST4MUJ32PM6OKR5
+language: en
+twofa_enabled: false
